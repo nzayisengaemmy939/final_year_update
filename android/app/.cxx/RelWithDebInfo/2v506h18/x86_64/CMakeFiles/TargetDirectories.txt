@@ -1,0 +1,2 @@
+C:/Users/IKTech/Desktop/final-year-project/android/app/.cxx/RelWithDebInfo/2v506h18/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/IKTech/Desktop/final-year-project/android/app/.cxx/RelWithDebInfo/2v506h18/x86_64/CMakeFiles/rebuild_cache.dir
